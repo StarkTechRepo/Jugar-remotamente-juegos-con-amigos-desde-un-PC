@@ -24,14 +24,6 @@ Algunos ejemplos de aplicaciones externas para jugar remotamente juegos con amig
 3. El otro jugador se conecta a esa máquina mediante una invitación.
 4. Una vez conectados, ambos pueden compartir la pantalla y jugar juntos.
 
-### Shadow
-[Shadow]/) es un servicio de suscripción que te permite acceder a un PC virtual desde cualquier dispositivo. Para utilizar Shadow:
-
-1. Suscríbete a Shadow y configura tu cuenta.
-2. Descarga la aplicación Shadow en tu dispositivo.
-3. Inicia sesión en tu cuenta y accede a tu PC virtual.
-4. Instala y juega a tus juegos como lo harías en tu propio PC.
-
 ---
 
 # Plataformas Populares para Jugar Juegos en la Nube
