@@ -1,22 +1,58 @@
-# Jugar remotamente juegos con amigos desde un PC
 
-## Aplicaciones Oficiales
+# Índice
+
+1. [**Aplicaciones Oficiales**](#aplicaciones-oficiales)
+   1.1 [Steam Remote Play](#1-steam-remote-play)
+   1.2 [Microsoft Xbox Remote Play](#2-microsoft-xbox-remote-play)
+   1.3 [PlayStation Remote Play](#3-playstation-remote-play)
+   1.4 [Parsec](#4-parsec)
+   1.5 [Steam Link](#5-steam-link)
+
+2. [**Plataformas Populares para Jugar Juegos en la Nube**](#plataformas-populares-para-jugar-juegos-en-la-nube)
+   2.1 [NVIDIA GeForce NOW](#nvidia-geforce-now)
+   2.2 [Xbox Cloud Gaming (anteriormente xCloud)](#xbox-cloud-gaming-anteriormente-xcloud)
+   2.3 [Amazon Luna](#amazon-luna)
+   2.4 [Xbox Play Anywhere](#xbox-play-anywhere)
+
+3. [**Requisitos Mínimos para Jugar Juegos en la Nube**](#requisitos-mínimos-para-jugar-juegos-en-la-nube)
+   3.1 [NVIDIA GeForce NOW](#nvidia-geforce-now-1)
+   3.2 [Xbox Cloud Gaming](#xbox-cloud-gaming-1)
+   3.3 [Amazon Luna](#amazon-luna-1)
+   3.4 [Xbox Play Anywhere](#xbox-play-anywhere-1)
+
+4. [**Cloud Gaming: Diferencias y Ventajas**](#cloud-gaming-diferencias-y-ventajas)
+   4.1 [Diferencias](#diferencias)
+   4.2 [Ventajas](#ventajas)
+
+5. [**Consolas Portátiles Destacadas**](#consolas-portátiles-destacadas)
+   5.1 [Steam Deck](#steam-deck)
+   5.2 [PlayStation Portal](#playstation-portal)
+   5.3 [Nintendo Switch](#nintendo-switch)
+
+6. [**Licencia**](#licencia)
+
+7. [**Nota Importante**](#nota-importante)
 
 ---
 
-## Aplicaciones Externas
+# Jugar remotamente juegos con amigos desde un PC
 
-También existen aplicaciones externas que te permiten jugar remotamente juegos con amigos. Estas aplicaciones suelen funcionar mediante la creación de una red privada virtual (VPN) entre tu PC y el PC de tus amigos. Esto permite que los dos PCs se conecten directamente entre sí, sin necesidad de utilizar servidores de terceros.
+Para jugar remotamente juegos con amigos, puedes utilizar varias aplicaciones oficiales que facilitan esta experiencia. A continuación, se presentan algunas de ellas:
 
-Algunos ejemplos de aplicaciones externas para jugar remotamente juegos con amigos son:
+### 1. [**Steam Remote Play**](https://store.steampowered.com/remoteplay)
+   - **Descripción:** Steam Remote Play te permite jugar a tus juegos de Steam con amigos de forma remota. Puedes invitar a tus amigos para que se unan a tu sesión de juego, incluso si no poseen el juego en sus bibliotecas.
 
-### Parsec
-[Parsec](https://parsec.app/) es una aplicación gratuita que te permite jugar remotamente a juegos de PC con amigos. Para utilizar Parsec:
+### 2. [**Microsoft Xbox Remote Play**](https://www.xbox.com/en-US/xbox-remote-play)
+   - **Descripción:** Con Xbox Remote Play, puedes jugar a tus juegos de Xbox desde tu PC. Solo necesitas tener una suscripción a Xbox Game Pass y una conexión a Internet estable para disfrutar de tus juegos favoritos.
 
-1. Ambos jugadores deben descargar e instalar Parsec en sus PCs.
-2. Uno de los jugadores inicia Parsec y crea una "máquina" para jugar.
-3. El otro jugador se conecta a esa máquina mediante una invitación.
-4. Una vez conectados, ambos pueden compartir la pantalla y jugar juntos.
+### 3. [**PlayStation Remote Play**](https://remoteplay.dl.playstation.net/remoteplay)
+   - **Descripción:** PlayStation Remote Play te permite jugar a juegos de PlayStation en tu PC. Conecta tu PC a tu consola PlayStation y disfruta de tus juegos favoritos sin la necesidad de estar frente a la televisión.
+
+### 4. [**Parsec**](https://parsec.app/)
+   - **Descripción:** Parsec es una aplicación gratuita que te permite jugar remotamente a juegos de PC con amigos. Facilita la conexión y la compartición de pantalla para una experiencia de juego colaborativa.
+
+### 5. [**Steam Link**](https://store.steampowered.com/app/353380/Steam_Link/?l=spanish)
+   - **Descripción:** Steam Link, desarrollado por Valve, te permite transmitir juegos desde tu PC a otros dispositivos en tu red. Esto te brinda la posibilidad de jugar en tu televisor u otros dispositivos compatibles con Steam Link.
 
 ---
 
