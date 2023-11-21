@@ -1,38 +1,4 @@
 
-# Índice
-
-1. [**Aplicaciones Oficiales**](#aplicaciones-oficiales)
-   1.1 [Steam Remote Play](#1-steam-remote-play)
-   1.2 [Microsoft Xbox Remote Play](#2-microsoft-xbox-remote-play)
-   1.3 [PlayStation Remote Play](#3-playstation-remote-play)
-   1.4 [Parsec](#4-parsec)
-   1.5 [Steam Link](#5-steam-link)
-
-2. [**Plataformas Populares para Jugar Juegos en la Nube**](#plataformas-populares-para-jugar-juegos-en-la-nube)
-   2.1 [NVIDIA GeForce NOW](#nvidia-geforce-now)
-   2.2 [Xbox Cloud Gaming (anteriormente xCloud)](#xbox-cloud-gaming-anteriormente-xcloud)
-   2.3 [Amazon Luna](#amazon-luna)
-   2.4 [Xbox Play Anywhere](#xbox-play-anywhere)
-
-3. [**Requisitos Mínimos para Jugar Juegos en la Nube**](#requisitos-mínimos-para-jugar-juegos-en-la-nube)
-   3.1 [NVIDIA GeForce NOW](#nvidia-geforce-now-1)
-   3.2 [Xbox Cloud Gaming](#xbox-cloud-gaming-1)
-   3.3 [Amazon Luna](#amazon-luna-1)
-   3.4 [Xbox Play Anywhere](#xbox-play-anywhere-1)
-
-4. [**Cloud Gaming: Diferencias y Ventajas**](#cloud-gaming-diferencias-y-ventajas)
-   4.1 [Diferencias](#diferencias)
-   4.2 [Ventajas](#ventajas)
-
-5. [**Consolas Portátiles Destacadas**](#consolas-portátiles-destacadas)
-   5.1 [Steam Deck](#steam-deck)
-   5.2 [PlayStation Portal](#playstation-portal)
-   5.3 [Nintendo Switch](#nintendo-switch)
-
-6. [**Licencia**](#licencia)
-
-7. [**Nota Importante**](#nota-importante)
-
 ---
 
 # Jugar remotamente juegos con amigos desde un PC
