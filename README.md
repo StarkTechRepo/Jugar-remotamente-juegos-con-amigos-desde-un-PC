@@ -1,6 +1,3 @@
-
----
-
 # Jugar remotamente juegos con amigos desde un PC
 
 Para jugar remotamente juegos con amigos, puedes utilizar varias aplicaciones oficiales que facilitan esta experiencia. A continuación, se presentan algunas de ellas:
