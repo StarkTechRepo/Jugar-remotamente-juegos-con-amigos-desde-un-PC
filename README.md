@@ -1,14 +1,7 @@
 # Jugar remotamente juegos con amigos desde un PC
 
-## Aplicaciones Oficiales
 
-Las aplicaciones oficiales de los juegos suelen incluir un modo multijugador online que te permite jugar con amigos de todo el mundo. Para utilizar estas aplicaciones, solo necesitas crear una cuenta y añadir a tus amigos. Una vez que estés conectado, podrás invitar a tus amigos a jugar a cualquier juego que tenga soporte para multijugador online.
-
-1. [Steam](https://store.steampowered.com/): La plataforma de juegos digital de Valve ofrece soporte para multijugador online en una gran cantidad de juegos.
-2. [Epic Games Store](https://www.epicgames.com/store/en-US/): La plataforma de juegos digital de Epic Games también ofrece soporte para multijugador online en una gran cantidad de juegos.
-3. [GOG Galaxy](https://www.gog.com/galaxy): La plataforma de juegos digital de GOG ofrece soporte para multijugador online en algunos juegos.
-4. [Origin](https://www.origin.com/): La plataforma de juegos digital de Electronic Arts ofrece soporte para multijugador online en algunos juegos.
-5. [Steam Remote Play](https://store.steampowered.com/remoteplay): Te permite jugar a juegos de Steam en cualquier dispositivo que tenga una conexión a Internet y la aplicación Steam Link instalada. Esto incluye smartphones, tablets, televisores inteligentes y otros PCs.
+---
 
 ## Aplicaciones Externas
 
