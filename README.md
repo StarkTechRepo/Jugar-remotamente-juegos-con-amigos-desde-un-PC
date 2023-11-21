@@ -8,10 +8,10 @@ Para jugar remotamente juegos con amigos, puedes utilizar varias aplicaciones of
 ### 1. [**Steam Remote Play**](https://store.steampowered.com/remoteplay)
    - **Descripción:** Steam Remote Play te permite jugar a tus juegos de Steam con amigos de forma remota. Puedes invitar a tus amigos para que se unan a tu sesión de juego, incluso si no poseen el juego en sus bibliotecas.
 
-### 2. [**Microsoft Xbox Remote Play**](https://www.xbox.com/en-US/xbox-remote-play)
+### 2. [**Microsoft Xbox Remote Play**](https://www.xbox.com/en-US/consoles/remote-play)
    - **Descripción:** Con Xbox Remote Play, puedes jugar a tus juegos de Xbox desde tu PC. Solo necesitas tener una suscripción a Xbox Game Pass y una conexión a Internet estable para disfrutar de tus juegos favoritos.
 
-### 3. [**PlayStation Remote Play**](https://remoteplay.dl.playstation.net/remoteplay)
+### 3. [**PlayStation Remote Play**]https://remoteplay.dl.playstation.net/remoteplay/lang/es/index.html)
    - **Descripción:** PlayStation Remote Play te permite jugar a juegos de PlayStation en tu PC. Conecta tu PC a tu consola PlayStation y disfruta de tus juegos favoritos sin la necesidad de estar frente a la televisión.
 
 ### 4. [**Parsec**](https://parsec.app/)
